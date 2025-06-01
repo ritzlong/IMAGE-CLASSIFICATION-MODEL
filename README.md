@@ -49,3 +49,12 @@ Applications
 
 This task highlights how CNNs can be used for image classification, which has broad applications in real-world scenarios. These include facial recognition, traffic sign detection, medical imaging analysis, quality control in manufacturing, and many others. This task provides a foundation that can be expanded with more complex networks or transfer learning for advanced use cases.
 
+*OUTPUT*
+
+<img width="374" alt="Image" src="https://github.com/user-attachments/assets/7c7032b6-1336-45a9-be91-0b6557a1e2f3" />
+
+<img width="227" alt="Image" src="https://github.com/user-attachments/assets/810ff179-d50e-4052-b487-735771d02942" />
+
+<img width="127" alt="Image" src="https://github.com/user-attachments/assets/39d7f80f-75a3-48a5-abd4-a7ec4f74cf3f" />
+
+<img width="292" alt="Image" src="https://github.com/user-attachments/assets/f46e9bee-2b37-4d26-9c62-8df96764a4cc" />
